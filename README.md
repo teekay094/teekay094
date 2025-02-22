@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teekay094
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in Data, analyzing Data and helping teams and organizations make data-driven decisions.
 - 💞️ I’m looking to collaborate on case studies, projects
 - 📫 How to reach me https://www.linkedin.com/in/taimoor-khan-analyzewithtk/
 
